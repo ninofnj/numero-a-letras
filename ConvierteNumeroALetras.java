@@ -1,5 +1,3 @@
-package pruebasconsola.terminados;
-
 /**
  *
  * @author Fernando Niño Jaimes
